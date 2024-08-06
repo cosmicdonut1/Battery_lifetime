@@ -1,5 +1,6 @@
 
 # Project Battery Lifetime
+(dataset is private, ask me if you need it)
 
 ## 1. Data Validation and Cleaning
 - **Data Integrity Checks:** Ensure data accuracy and completeness. ✓
